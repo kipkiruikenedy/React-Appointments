@@ -1,14 +1,9 @@
 # React-Appointments
 
  ```
-Add and track appointments with this React/Node app.
- ```
+Add and track appointments with this React/Node app.```
 
-### Preview Site
 
-```
-https://admreactappt.herokuapp.com/
-```
 
 
 ### Built With
@@ -42,10 +37,5 @@ https://admreactappt.herokuapp.com/
 
 ```
 
-### Contributers
-
-```
-* Ashley MacWhirter
-```
 
 
